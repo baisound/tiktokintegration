@@ -2,7 +2,7 @@
     "name": "com.baisound.tiktokintegration",
     "displayName": "TryBaiSystem TikTok Integration",
     "version": "1.0.0",
-    "unity": "6000.0.38f1.7976.7744",
+    "unity": "6000",
     "description": "TikTokのライブギフトデータを取得し、ゲーム内に反映しつつTryBaiSystemへGift情報送信するパッケージ。",
     "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.0.2",
@@ -12,10 +12,10 @@
     "author": {
         "name": "baisound",
         "email": "baisound.com@gmail.com",
-        "url": "https://github.com/baisound/TrybaiForUnity"
+        "url": "https://github.com/baisound/tiktokintegration"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/baisound/TrybaiForUnity.git"
+        "url": "git@github.com:baisound/tiktokintegration.git"
     }
 }
