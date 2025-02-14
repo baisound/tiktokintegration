@@ -5,8 +5,7 @@
     "unity": "6000",
     "description": "TikTokのライブギフトデータを取得し、ゲーム内に反映しつつTryBaiSystemへGift情報送信するパッケージ。",
     "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "3.0.2",
-        "dev.vanhoof.tiktokliveunity": "1.2.2"
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
     },
     "keywords": ["unity", "tiktok", "live", "api", "integration", "baisound", "TryBaiSystem"],
     "author": {
@@ -16,6 +15,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:baisound/tiktokintegration.git"
+        "url": "https://github.com/baisound/tiktokintegration.git"
     }
 }
