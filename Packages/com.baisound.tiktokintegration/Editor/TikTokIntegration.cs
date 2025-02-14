@@ -14,10 +14,10 @@ using com.baisound.tiktokintegration;
 
 namespace com.baisound.tiktokintegration
 {
-    private ApiClient apiClient;
-
     public class TikTokIntegration : MonoBehaviour
     {
+        private ApiClient apiClient;
+
         // 設定情報保持用クラス（JSONをマッピング）
         [System.Serializable]
         public class TikTokIntegrationConfig
