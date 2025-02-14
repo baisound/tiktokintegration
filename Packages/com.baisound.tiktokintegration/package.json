@@ -2,7 +2,7 @@
     "name": "com.baisound.tiktokintegration",
     "displayName": "TryBaiSystem TikTok Integration",
     "version": "1.0.0",
-    "unity": "6.0.0",
+    "unity": "6.0",
     "description": "TikTokのライブギフトデータを取得し、ゲーム内に反映しつつTryBaiSystemへGift情報送信するパッケージ。",
     "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.0.2"
