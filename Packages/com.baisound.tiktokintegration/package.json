@@ -15,6 +15,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/baisound/tiktokintegration.git?path=/Packages/com.baisound.tiktokintegration"
+        "url": "https://github.com/baisound/tiktokintegration.git"
     }
 }
